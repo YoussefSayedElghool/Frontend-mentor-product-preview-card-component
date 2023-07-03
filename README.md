@@ -1,0 +1,1 @@
+# FrontEnd_mentor_product-preview-card-component
